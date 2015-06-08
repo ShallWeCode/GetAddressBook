@@ -1,0 +1,3 @@
+[submodule "HockeySDK-iOS"]
+	path = HockeySDK-iOS
+	url = git://github.com/bitstadium/HockeySDK-iOS.git

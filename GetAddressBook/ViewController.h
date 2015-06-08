@@ -10,6 +10,9 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)readAddressBook:(id) sender;
+
+@property (strong, nonatomic) IBOutlet UITextView *textView;
 
 @end
 
